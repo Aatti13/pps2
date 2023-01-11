@@ -39,3 +39,4 @@ def sums(n):
 print(sums(destiny_no))
 print(sums(soul_no))
 print(sums(dream_no))
+#
